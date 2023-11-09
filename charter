@@ -1,12 +1,24 @@
 <group name>
 
 
-Availability for meeting expectations
-Response time to communication expectations
-Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
-Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
-Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
-if you adopt such a policy during the initial meeting, put it here
-Procedure for handling a member who is not meeting expectations
-must include at least 3 actions before involving the instructor
+Availability for meeting expectations:
+Flexible to be determined on a week by week basis.
+
+Response time to communication expectations:
+24 hours if pinged in the discord server
+
+Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.):
+When the tests are passed and the push is fully reviewed and pushed to the github main branch.
+
+Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board):
+Meet in discord call three times a week for ~30 minutes (depending on what will needed to be done). Everything for the meetings will be figured out on a trello board.
+
+Procedure for adobting policies:
+Simple majority for any new policies / removing all the bad policies.
+
+Procedure for handling a member who is not meeting expectations:
+1: Email them
+2: Talk to them in lab
+3: Physically corner them in lab
+
 Signatures: each member must sign their name by typing their name at the bottom of the document.
